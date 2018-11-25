@@ -1,4 +1,5 @@
 .idea/*
+.grade/*
 
 # Compiled class file
 *.class
