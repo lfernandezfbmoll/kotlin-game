@@ -1,5 +1,5 @@
 .idea/*
-.grade/*
+.gradle/*
 
 # Compiled class file
 *.class
