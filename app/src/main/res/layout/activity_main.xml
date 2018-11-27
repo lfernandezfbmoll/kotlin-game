@@ -13,7 +13,8 @@
         android:textColor="@color/logo_color"
         android:layout_gravity="center_vertical|center_horizontal"
         android:gravity="top|center"
-        android:textSize="@dimen/logo_size" tools:ignore="SpUsage"/>
+        android:textSize="@dimen/logo_size" tools:ignore="SpUsage"
+        />
     <TableLayout
         android:id="@+id/TableLayout01"
         android:stretchColumns="*"
