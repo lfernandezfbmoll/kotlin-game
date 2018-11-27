@@ -1,9 +1,13 @@
 <resources>
-    <string name="app_name">game</string>
+    <string name="app_name">Game quiz</string>
     <string name="help">Help Screen</string>
     <string name="menu">Main Menu Screen</string>
     <string name="splash">Splash Screen</string>
     <string name="settings">Settings Screen</string>
     <string name="quiz">Game Screen</string>
     <string name="scores">Scores Screen</string>
+    <string name="app_logo_top">GAME</string>
+    <string name="app_logo_bottom">QUIZ!</string>
+    <string name="app_version_info">Version 1.0.0\nCopyright © 2018 LISA \n All Rights Reserved.</string>
+    <string name="image_splash">Image splash description</string>
 </resources>
